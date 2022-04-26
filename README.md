@@ -1,7 +1,8 @@
 ## Hey, Raghad here!
 
-
+<p>
 <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/raghad.gif' alt = 'Raghad' align='right'/>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaghadKhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Raghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:raghad200059@gmail.com)
 
