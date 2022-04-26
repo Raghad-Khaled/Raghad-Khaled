@@ -3,7 +3,7 @@
 
 <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/raghad.gif' alt = 'Raghad' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaghadKhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Rghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:raghad200059@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-RaghadKhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Raghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:raghad200059@gmail.com)
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
