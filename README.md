@@ -1,7 +1,7 @@
 ## Hey, Raghad here!
 
 <p>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/raghad.gif' alt = 'Raghad' align='right'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/raghad.gif' width="30%" alt = 'Raghad' align='right'/>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaghadKhaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Raghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:raghad200059@gmail.com)
@@ -33,9 +33,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Khaled&layout=compact">
 
 ## Programming Languages and Technologies
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/c-original.svg' width='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/cpp.svg' width='30'/> 
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/python2.png' height='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/c-original.svg' width='30'/><img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/python2.png' height='30'/>
 <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/html.svg' width='30'/>
 <img src='https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/java.svg' width='30'/>
 <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/css.svg' width='30'/>
