@@ -2,10 +2,9 @@
 
 <h1>Welcome to my World..</h1> 
 
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/raghad.gif' alt = 'Raghad' align='right'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/raghad.gif' alt = 'Raghad' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Rghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:asterp04@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghad-Khaled" alt="Raghad-Khaled" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Raghad-Khaled)](https://www.linkedin.com/in/Rghad-Khaled) [![Gmail Badge](https://img.shields.io/badge/-raghad200059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghad200059@gmail.com)](mailto:raghad200059@gmail.com)
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -31,25 +30,25 @@
 * Machine Learning
 * Data Science
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Kahled&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Khaled&layout=compact">
 
 ## Programming Languages and Technologies
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/c-original.svg' width='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/cpp.svg' width='30'/> 
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/python2.png' height='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/html.svg' width='30'/>
-<img src='https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/java.svg' width='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/css.svg' width='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/js.svg' width='30'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/bootstrap.svg' width='33'/> 
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/dart.svg' width='33'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/php.svg' width='40'/>
-<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/sql.svg' width='30'/> 
- <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/matlab.png' width='30'/>
- <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/flask.png' width='30'/>
- <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/git.svg' width='30'/>
- <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/react.svg' width='33'/>
- <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/blob/master/images/docker.png' width='33'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/c-original.svg' width='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/cpp.svg' width='30'/> 
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/python2.png' height='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/html.svg' width='30'/>
+<img src='https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/java.svg' width='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/css.svg' width='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/js.svg' width='30'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/bootstrap.svg' width='33'/> 
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/dart.svg' width='33'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/sql.svg' width='30'/> 
+ <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/matlab.png' width='30'/>
+ <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/flask.png' width='30'/>
+ <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/docker.png' width='33'/>
  
 
  
