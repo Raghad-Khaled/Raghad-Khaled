@@ -1,6 +1,5 @@
 ## Hey, Raghad here!
 
-<h1>Welcome to my World..</h1> 
 
 <img src = 'https://github.com/Raghad-Khaled/Raghad-Khaled/tree/master/images/raghad.gif' alt = 'Raghad' align='right'/>
 
